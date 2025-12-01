@@ -1,10 +1,7 @@
 # 🏦 Calculadora de Score de Crédito
 
-**Projeto SIMPLES para demonstrar Docker + CI/CD**
 
----
-
-## 🎯 O que faz
+## O que faz
 
 Calcula score de crédito (0-100) baseado em:
 - 💰 Renda
@@ -138,7 +135,7 @@ docker run calculadora-score pytest test_calculadora.py -v
 
 ---
 
-## 🔄 CI/CD (5min de demo)
+##  CI/CD
 
 ### O que é CI/CD?
 **Testes automáticos em cada commit**
@@ -210,7 +207,7 @@ Total: 21s - PASSOU!
 
 ---
 
-## 🎓 Conceitos Demonstrados
+## Conceitos Demonstrados
 
 ### Docker
 - ✅ Containerização
